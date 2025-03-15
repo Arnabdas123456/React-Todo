@@ -10,7 +10,7 @@ A simple and interactive To-Do List application built using React.
 - Responsive UI
 
 ## Usage
-- Open `http://localhost:5174/` in your browser.
+- Open `https://arnabtodo.netlify.app/` in your browser.
 - Enter a task in the input field and press "Add" to add it to the list.
 - Click on a task to mark it as completed.
 - Click the delete button to remove a task.
